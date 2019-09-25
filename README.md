@@ -1,4 +1,4 @@
-##KNN and Naive Bayes Classifiers from scratch
+## KNN and Naive Bayes Classifiers from scratch
 
 This repository contains implementation of two popular classifiers in machine learning: KNN and Naive Bayes Classifier, 
 without using any machine learning libraries or toolkits, while numpy and pandas are used for mathematical functions and 
